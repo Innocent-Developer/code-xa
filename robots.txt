@@ -1,0 +1,37 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://code-xa.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Allow important pages
+Allow: /about.html
+Allow: /services.html
+Allow: /contact.html
+Allow: /index.html
+
+# Block common bot traps
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /api/
+Disallow: /_next/
+Disallow: /node_modules/
+
+# Allow CSS and JS for proper rendering
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+Allow: /*.ico$

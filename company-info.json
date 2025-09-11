@@ -1,0 +1,250 @@
+{
+  "company": {
+    "name": "Code-Xa",
+    "tagline": "We build digital solutions for your success",
+    "description": "Code-Xa is a leading IT company specializing in delivering comprehensive digital solutions that drive business growth. With years of experience in the technology industry, we combine technical expertise with creative innovation to help businesses thrive in the digital landscape.",
+    "founded": "2020",
+    "website": "https://code-xa.com",
+    "logo": "https://code-xa.com/images/logo.png"
+  },
+  "contact": {
+    "email": {
+      "primary": "thecodexaoffical@gmail.com",
+      "support": "support@code-xa.com",
+      "sales": "sales@code-xa.com",
+      "careers": "careers@code-xa.com"
+    },
+    "phone": {
+      "primary": "+92 316 4392 830",
+      "toll_free": "+92 316 4392 830",
+      "fax": "+92 316 4392 831"
+    },
+    "address": {
+      "street": "Islamabad",
+      "city": "Islamabad",
+      "state": "Federal Capital",
+      "zip_code": "44000",
+      "country": "Pakistan",
+      "full_address": "Islamabad, Pakistan"
+    },
+    "business_hours": {
+      "monday_friday": "9:00 AM - 6:00 PM PKT",
+      "saturday": "10:00 AM - 4:00 PM PKT",
+      "sunday": "Closed",
+      "timezone": "Pakistan Standard Time (PKT)"
+    }
+  },
+  "social_media": {
+    "linkedin": {
+      "url": "https://linkedin.com/company/code-xa",
+      "username": "@code-xa",
+      "display_name": "Code-Xa"
+    },
+    "twitter": {
+      "url": "https://twitter.com/code_xa",
+      "username": "@code_xa",
+      "display_name": "Code-Xa"
+    },
+    "github": {
+      "url": "https://github.com/code-xa",
+      "username": "code-xa",
+      "display_name": "Code-Xa"
+    },
+    "facebook": {
+      "url": "https://facebook.com/codexa",
+      "username": "@codexa",
+      "display_name": "Code-Xa"
+    },
+    "instagram": {
+      "url": "https://instagram.com/code_xa",
+      "username": "@code_xa",
+      "display_name": "Code-Xa"
+    },
+    "youtube": {
+      "url": "https://youtube.com/c/codexa",
+      "username": "Code-Xa",
+      "display_name": "Code-Xa"
+    },
+    "dribbble": {
+      "url": "https://dribbble.com/code-xa",
+      "username": "code-xa",
+      "display_name": "Code-Xa"
+    },
+    "behance": {
+      "url": "https://behance.net/code-xa",
+      "username": "code-xa",
+      "display_name": "Code-Xa"
+    }
+  },
+  "services": {
+    "web_development": {
+      "name": "Web Development",
+      "description": "Custom, scalable, responsive websites built with modern technologies",
+      "icon": "🌐",
+      "features": [
+        "Responsive Design",
+        "Custom Development",
+        "Performance Optimization",
+        "SEO Integration"
+      ]
+    },
+    "ui_ux_design": {
+      "name": "UI/UX Design",
+      "description": "Intuitive, modern, engaging designs that provide exceptional user experiences",
+      "icon": "🎨",
+      "features": [
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Design Systems"
+      ]
+    },
+    "mobile_app_development": {
+      "name": "Mobile App Development",
+      "description": "Native and cross-platform iOS & Android applications",
+      "icon": "📱",
+      "features": [
+        "iOS Development",
+        "Android Development",
+        "Cross-Platform",
+        "App Store Optimization"
+      ]
+    },
+    "digital_strategy": {
+      "name": "Digital Strategy",
+      "description": "Comprehensive SEO, branding, and user journey planning",
+      "icon": "📈",
+      "features": [
+        "SEO Optimization",
+        "Brand Strategy",
+        "User Journey Mapping",
+        "Analytics & Reporting"
+      ]
+    },
+    "cloud_solutions": {
+      "name": "Cloud Solutions",
+      "description": "AWS, Azure, Firebase deployment and management services",
+      "icon": "☁️",
+      "features": [
+        "AWS Services",
+        "Azure Solutions",
+        "Firebase Integration",
+        "DevOps & CI/CD"
+      ]
+    },
+    "maintenance_support": {
+      "name": "Maintenance & Support",
+      "description": "Continuous optimization, updates, and 24/7 support",
+      "icon": "🛠️",
+      "features": [
+        "24/7 Monitoring",
+        "Regular Updates",
+        "Performance Optimization",
+        "Technical Support"
+      ]
+    }
+  },
+  "team": {
+    "ceo": {
+      "name": "Alex Johnson",
+      "title": "Chief Executive Officer",
+      "email": "alex.johnson@code-xa.com",
+      "linkedin": "https://linkedin.com/in/alexjohnson"
+    },
+    "cto": {
+      "name": "Sarah Chen",
+      "title": "Chief Technology Officer",
+      "email": "sarah.chen@code-xa.com",
+      "linkedin": "https://linkedin.com/in/sarahchen"
+    },
+    "lead_designer": {
+      "name": "Michael Rodriguez",
+      "title": "Lead UI/UX Designer",
+      "email": "michael.rodriguez@code-xa.com",
+      "linkedin": "https://linkedin.com/in/michaelrodriguez"
+    }
+  },
+  "company_stats": {
+    "projects_completed": 150,
+    "happy_clients": 50,
+    "years_experience": 5,
+    "support_hours": 24,
+    "team_members": 25,
+    "countries_served": 15
+  },
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional",
+    "Microsoft Azure Certified",
+    "Adobe Certified Expert",
+    "Certified Scrum Master"
+  ],
+  "technologies": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Vue.js",
+      "Angular",
+      "TypeScript"
+    ],
+    "backend": [
+      "Node.js",
+      "Python",
+      "PHP",
+      "Java",
+      "C#",
+      "Go",
+      "Ruby"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Firebase"
+    ],
+    "cloud_platforms": [
+      "AWS",
+      "Google Cloud",
+      "Microsoft Azure",
+      "Firebase",
+      "Vercel",
+      "Netlify"
+    ],
+    "mobile": [
+      "React Native",
+      "Flutter",
+      "Swift",
+      "Kotlin",
+      "Ionic"
+    ]
+  },
+  "awards": [
+    "Best Web Development Company 2024",
+    "Top Mobile App Developer 2023",
+    "Excellence in UI/UX Design 2023",
+    "Fastest Growing IT Company 2022"
+  ],
+  "clients": [
+    "TechCorp Inc.",
+    "InnovateLabs",
+    "Digital Solutions Ltd.",
+    "StartupHub",
+    "Enterprise Systems"
+  ],
+  "legal": {
+    "privacy_policy": "https://code-xa.com/privacy-policy",
+    "terms_of_service": "https://code-xa.com/terms-of-service",
+    "cookie_policy": "https://code-xa.com/cookie-policy",
+    "gdpr_compliance": true
+  },
+  "seo": {
+    "meta_title": "Code-Xa - Professional IT Solutions & Web Development Services",
+    "meta_description": "Code-Xa delivers cutting-edge IT solutions including web development, mobile apps, UI/UX design, cloud solutions, and digital strategy. We build digital solutions for your success.",
+    "meta_keywords": "web development, mobile app development, UI/UX design, cloud solutions, digital strategy, IT services, software development, responsive websites",
+    "og_image": "https://code-xa.com/images/og-image.jpg",
+    "twitter_card": "https://code-xa.com/images/twitter-card.jpg"
+  }
+}
