@@ -4,8 +4,8 @@
     "tagline": "We build digital solutions for your success",
     "description": "Code-Xa is a leading IT company specializing in delivering comprehensive digital solutions that drive business growth. With years of experience in the technology industry, we combine technical expertise with creative innovation to help businesses thrive in the digital landscape.",
     "founded": "2020",
-    "website": "https://code-xa.com",
-    "logo": "https://code-xa.com/images/logo.png"
+    "website": "https://code-xa.vercel.app/",
+    "logo": "https://code-xa.vercel.app/images/logo.png"
   },
   "contact": {
     "email": {
@@ -36,7 +36,7 @@
   },
   "social_media": {
     "linkedin": {
-      "url": "https://linkedin.com/company/code-xa",
+      "url": "https://www.linkedin.com/company/code-xa-offical/",
       "username": "@code-xa",
       "display_name": "Code-Xa"
     },
